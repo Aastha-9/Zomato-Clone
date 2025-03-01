@@ -73,6 +73,3 @@ Zomato is a online food ordering application, we made a clone (Tomato) of it usi
 <img src="Project Images/HotelOrderPage.png" />
 
 
-### Project Started Date: june, 11, 2022
-
-### Project Completed Date: july 19, 2022
